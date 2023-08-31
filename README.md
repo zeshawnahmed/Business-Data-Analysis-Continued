@@ -9,3 +9,5 @@ Covid Cases 2020
 ![image](https://github.com/zeshawnahmed/IT-Business-Analyst-Work/assets/3903498/f52ba261-a191-40fc-80b0-36aa92d73bbb)
 Operation Costs By Department for Nationally-Recognized Construction Company. Fiscal Year 2018. 
 
+![image](https://github.com/zeshawnahmed/IT-Business-Analyst-Work/assets/3903498/12f1ec60-a483-41ea-b79c-f179d7193b10)
+Server CPU Load, American General Tool Group 
