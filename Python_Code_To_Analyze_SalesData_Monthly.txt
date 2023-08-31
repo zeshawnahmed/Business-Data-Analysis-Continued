@@ -1,0 +1,33 @@
+import pandas as pd
+
+# Read the sales data from a CSV file
+sales_data = pd.read_csv('sales_data.csv')
+
+# Display the top 5 rows of the sales data
+print(sales_data.head())
+
+# Calculate the total sales
+total_sales = sales_data['Total'].sum()
+print("Total Sales: $", total_sales)
+
+# Calculate the average sales
+average_sales = sales_data['Total'].mean()
+print("Average Sales: $", average_sales)
+
+# Calculate the maximum and minimum sales
+max_sales = sales_data['Total'].max()
+min_sales = sales_data['Total'].min()
+print("Maximum Sales: $", max_sales)
+print("Minimum Sales: $", min_sales)
+
+# Calculate the sales by product category
+sales_by_category = sales_data.groupby('Category')['Total'].sum()
+print("Sales by Category:")
+print(sales_by_category)
+
+# Calculate the sales by month
+sales_data['Date'] = pd.to_datetime(sales_data['Date'])
+sales_data['Month'] = sales_data['Date'].dt.month
+sales_by_month = sales_data.groupby('Month')['Total'].sum()
+print("Sales by Month:")
+print(sales_by_month)
