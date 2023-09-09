@@ -1,4 +1,5 @@
-# Welcome to my Business Analyst page! Here you will find various projects and resources for my BA work.  
+# Welcome to my Business Analyst page! Here you will find various projects and resources for my BA work. The various subfolders in this repository are: <br> business process mapping <br> UML Diagrams <br> Python Scripts
+
 
 Below you will find some visualizations I have made:
 
