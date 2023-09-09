@@ -1,4 +1,4 @@
-# Welcome to my Business Analyst page! Here you will find various projects and resources for my Analyst work. Please reach out for collab opportunities. 
+# Welcome to my Business Analyst page! Here you will find various projects and resources for my BA work.  
 
 Below you will find some visualizations I have made:
 
