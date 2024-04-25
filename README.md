@@ -5,7 +5,7 @@ I enjoy being the bridge between client needs and the development team. Please n
 
 
 **Project 1 Overview:**
-As a dedicated business analyst, I led the requirements gathering process for enhancing the Purchasing Order (PO) business process. Our objective was to optimize procurement operations and ensure transparency in purchasing activities.
+I led the requirements gathering process for enhancing the Purchasing Order (PO) business process. Our objective was to optimize procurement operations and ensure transparency in purchasing activities.
 
 [See Draft of Requirements and Flowchart](https://github.com/zeshawnahmed/Business-Process-Requirements-Continued/blob/main/business%20process%20mapping/Purchase%20Order%20Business%20Process.pdf)
 
