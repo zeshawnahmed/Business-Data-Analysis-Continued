@@ -1,5 +1,5 @@
 # Requirements Gathering Projects and Business Process Mapping
-I enjoy being the bridge between client needs and the development team. Please note some of these are raw prototypes and not necesarily final drafts for dev teams.  
+I enjoy being the bridge between client needs and the development team.   
 <br>
 <br>
 
